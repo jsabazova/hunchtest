@@ -649,7 +649,6 @@ Drop your theories below.
 
 ---
 
-Full methodology and prior analyses: [github.com/jsabazova/dwp2-luxury-sentiment](https://github.com/jsabazova/dwp2-luxury-sentiment)
 
 ---
 

@@ -643,7 +643,6 @@ Drop ideas below.
 
 ---
 
-Full methodology and prior analysis: [github.com/jsabazova/dwp2-luxury-sentiment](https://github.com/jsabazova/dwp2-luxury-sentiment)
 
 ---
 
